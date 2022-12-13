@@ -64,14 +64,14 @@ namespace ABSD3
         {
             ABSD3 obj=new ABSD3();
             Contact c=new Contact();
-            c.FirstName = "Vaibhav";
-            c.LastName = "Jadhav";
-            c.Address = "Somatane";
-            c.City = "Pune";
+            c.FirstName = "Saurabh";
+            c.LastName = "Rajnakar";
+            c.Address = "Upnagar";
+            c.City = "Nashik";
             c.State = "Maharashtra";
-            c.Zip = 410506;
-            c.MobNo =987654321;
-            c.Email = "vaibhav123@gmail.com";
+            c.Zip = 422101;
+            c.MobNo =8087732944;
+            c.Email = "saurabh#gmail.com";
 
             obj.insert_contact(c);
         }
